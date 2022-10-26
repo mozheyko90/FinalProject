@@ -1,0 +1,48 @@
+.wrapper {
+    width: 35%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.title {
+    font-size: 30px;
+    color: rgba(92, 92, 255, 1);
+    line-height: 50px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    .inputWrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .button {
+        padding: 10px;
+        margin: 15px 0 10px;
+        color: #fff;
+        font-weight: 500;
+        font-size: 18px;
+        background-color: rgba(92, 92, 255, 1);
+        border-radius: 4px;
+        border: 0px;
+
+        &:hover {
+            background-color: #1B1B4D;
+        }
+    }
+}
+
+.registration {
+    padding: 15px;
+    color: rgba(92, 92, 255, 1);
+    font-weight: 500;
+
+    .link {
+        color: rgba(92, 92, 255, 1);
+        margin-left: 10px;
+    }
+}

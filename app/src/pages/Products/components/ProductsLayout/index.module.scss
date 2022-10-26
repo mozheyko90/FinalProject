@@ -1,0 +1,19 @@
+.wrapper {
+    padding: 20px;
+    text-align: center;
+}
+
+.title {
+    font-size: 30px;
+    text-align: center;
+    color: rgba(92, 92, 255, 1);
+    line-height: 80px;
+    margin-bottom: 15px;
+}
+
+.productsWrapper {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+    margin-bottom: 10px;
+}
