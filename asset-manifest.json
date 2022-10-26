@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FinalProject/static/css/main.5ee29acb.css",
+    "main.js": "/FinalProject/static/js/main.c15e6149.js",
+    "static/media/Background.jpeg": "/FinalProject/static/media/Background.e2f08b744164a7692ed8.jpeg",
+    "static/media/Pokemon.png": "/FinalProject/static/media/Pokemon.a52c2c3979994ee37966.png",
+    "static/media/Profile.png": "/FinalProject/static/media/Profile.74177eea80db05a13dc4.png",
+    "static/media/speed.png": "/FinalProject/static/media/speed.cacaebcc8238f07b0e8b.png",
+    "static/media/defense.png": "/FinalProject/static/media/defense.61edc4f6ea282aceca97.png",
+    "static/media/hp.png": "/FinalProject/static/media/hp.164aacb07545b01678fa.png",
+    "static/media/attack.png": "/FinalProject/static/media/attack.639ebd446dacd37a8509.png",
+    "static/media/special_defense.png": "/FinalProject/static/media/special_defense.7456997ae7c39c7dfb81.png",
+    "static/media/special_attack.png": "/FinalProject/static/media/special_attack.5c0e908acc45965e0e2c.png",
+    "static/media/Twitter.png": "/FinalProject/static/media/Twitter.8926ec403245c8601a84.png",
+    "static/media/ShoppingTrolley.png": "/FinalProject/static/media/ShoppingTrolley.5c0c4acf43bfe85793a8.png",
+    "static/media/Instagram.png": "/FinalProject/static/media/Instagram.e2250ede3b1f29bf57a6.png",
+    "index.html": "/FinalProject/index.html",
+    "main.5ee29acb.css.map": "/FinalProject/static/css/main.5ee29acb.css.map",
+    "main.c15e6149.js.map": "/FinalProject/static/js/main.c15e6149.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ee29acb.css",
+    "static/js/main.c15e6149.js"
+  ]
+}
